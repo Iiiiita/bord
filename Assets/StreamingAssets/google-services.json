@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "999776053073",
+    "firebase_url": "https://bord-dfa96-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bord-dfa96",
+    "storage_bucket": "bord-dfa96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999776053073:android:ee7b04f81605fdf0a69570",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.bord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999776053073-m3bf7lcub5nl6vpgt68u7kegueodscri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm9GV0RydeOPIQIOkLgXx4pRlUZd90r8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999776053073-m3bf7lcub5nl6vpgt68u7kegueodscri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
